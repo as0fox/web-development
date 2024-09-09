@@ -1,0 +1,95 @@
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)
+$ mkdir Main_Project
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)
+$ cd main_project
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project
+$ mkdir frontend
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project
+$ cd frontend
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/frontend
+$ mk
+mkdir.exe     mkgroup.exe   mkpasswd.exe
+mkfifo.exe    mknod.exe     mktemp.exe
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/frontend
+$ mkdir index.html
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/frontend
+$ mkdir app.js
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/frontend
+$ mkdir style.css
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/frontend
+$ cd..
+bash: cd..: command not found
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/frontend
+$ cd ..
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project
+$ mkdir backend
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project
+$ cd backend
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/backend
+$ mkdir api.js
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/backend
+$ mkdir app.js
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/backend
+$ cd ..
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project
+$ mkdir assets
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project
+$ cd assets
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets
+$ mkdir css
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets
+$ mkdir images
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets
+$ mkdir js
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets
+$ cd..
+bash: cd..: command not found
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets
+$ mkdir database
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets
+$ cd database
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets/database
+$ mkdir tables.sql
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets/database
+$ mkdir seed_data.sql
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets/database
+$ cd ..
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/assets
+$ cd ..
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project
+$ cd frontend
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/frontend
+$ mv style.css assets/css
+mv: cannot move 'style.css' to 'assets/css': No such file or directory
+
+user@DESKTOP-1ANG009 MINGW64 ~/OneDrive/Desktop/New folder (2)/main_project/frontend
+$ mv style.css ../assets/css
+
